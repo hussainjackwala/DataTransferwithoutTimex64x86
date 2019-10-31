@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TblConnection>
+    <ServerName>192.168.100.121</ServerName>
+    <DbName>datatransfer</DbName>
+    <Uid>dts</Uid>
+    <Pwd>dts</Pwd>
+    <Type>SQL</Type>
+  </TblConnection>
+</DocumentElement>

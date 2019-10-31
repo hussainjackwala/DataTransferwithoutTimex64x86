@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <FieldsMapping>
+    <SourceColumn>dali_id</SourceColumn>
+    <DestinationColumn>dali_id</DestinationColumn>
+    <ColumnDataType>numeric</ColumnDataType>
+    <ConType>SQL</ConType>
+    <TableNameSource>user_info</TableNameSource>
+    <TableNameDestination>user_info</TableNameDestination>
+  </FieldsMapping>
+  <FieldsMapping>
+    <SourceColumn>dui_sdw_enroll_number</SourceColumn>
+    <DestinationColumn>dui_sdw_enroll_number1</DestinationColumn>
+    <ColumnDataType>numeric</ColumnDataType>
+    <ConType>SQL</ConType>
+    <TableNameSource>user_info</TableNameSource>
+    <TableNameDestination>user_info</TableNameDestination>
+  </FieldsMapping>
+  <FieldsMapping>
+    <SourceColumn>dui_s_name</SourceColumn>
+    <DestinationColumn>dui_s_name</DestinationColumn>
+    <ColumnDataType>nvarchar</ColumnDataType>
+    <ConType>SQL</ConType>
+    <TableNameSource>user_info</TableNameSource>
+    <TableNameDestination>user_info</TableNameDestination>
+  </FieldsMapping>
+  <FieldsMapping>
+    <SourceColumn>dui_s_password</SourceColumn>
+    <DestinationColumn>dui_s_password</DestinationColumn>
+    <ColumnDataType>nvarchar</ColumnDataType>
+    <ConType>SQL</ConType>
+    <TableNameSource>user_info</TableNameSource>
+    <TableNameDestination>user_info</TableNameDestination>
+  </FieldsMapping>
+</DocumentElement>
